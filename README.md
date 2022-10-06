@@ -1,10 +1,13 @@
 # Advanced CSS Challenge: Professional Portfolio
 ## Purpose
+***
 Repository created for Module 2 Challenge in which a portfolio site is created to show our newly learned HTML and CSS knowledge.
 ## Overview
+***
 This repository contains the newly developed porfolio site for Module 2 Challenge. It includes the the source code HTML, CSS, and additional assets used to build the site.
 ## Acceptance Criteria
-```shell
+***
+```
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
@@ -20,8 +23,10 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 ## Application Site
+***
 Application deployed at this [URL](https://iamlucho.github.io/module-2-challenge/).
 
 ## Screenshot
+***
 ![Screenshot of Horiseon site](/assets/images/screenshot.png)
 
