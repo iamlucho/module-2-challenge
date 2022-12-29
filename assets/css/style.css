@@ -86,5 +86,31 @@ p {
     font-size: 16px;
 }
 
-
+/*Section Styles for About Me, Work, and Contact Me*/
+section {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 10px;
+}
+.section-detail {
+    margin: 20px auto;
+    padding-bottom: 50px;
+    width: 100%;
+    display: flex;
+}
+.section-title {
+    font-size: 50px;
+    display: inline-block;
+    border-right: 5px solid;
+    margin-right: 40px;
+    color: black;
+    text-align: right;
+    padding: 30px;
+    flex-basis: 25%;
+}
+.cell-border {
+    border-color: black;
+}
 
